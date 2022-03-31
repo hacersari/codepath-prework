@@ -15,10 +15,10 @@ The following **required** functionality is complete:
 * [x] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
 * [x] "Start" button toggles between "Start" and "Stop" when clicked.
 * [x] Game buttons each light up and play a sound when clicked.
-* [ ] Computer plays back sequence of clues including sound and visual cue for each button
-* [ ] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess.
-* [ ] User wins the game after guessing a complete pattern
-* [ ] User loses the game after an incorrect guess
+* [x] Computer plays back sequence of clues including sound and visual cue for each button
+* [x] ] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess.
+* [x] User wins the game after guessing a complete pattern
+* [x] User loses the game after an incorrect guess
 
 The following **optional** features are implemented:
 
@@ -39,24 +39,28 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
+![](![](https://i.imgur.com/M8TAzjD.gif)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
-[YOUR ANSWER HERE]
+
+   I did not use any outside resources, but I read through the extra javascript specifications on the prework website.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
-[YOUR ANSWER HERE]
+
+    There were so many new tools we used that were new to me. Also, javascript is very different than other languages we learned in the intro programming class. The Prework website explained the project step by step, so I was able to make it without having any bugs in my code.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
-[YOUR ANSWER HERE]
+
+    I have questions about people with disabilities, I got diagnosed with ADHD a few months ago, and my psychiatrist recommended that I play games just like this color game. This helps me to improve my focus and memorization.
+    I LOVED HOW SMALL PROJECTS HELP PEOPLE TO OVERCOME LIFE OBSTACLES. I wonder how web development could be helpful for other disabilities.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
-[YOUR ANSWER HERE]
 
+    I played the game many times and figured out it has the same sounds and lights. Suppose it was a different rhythm(lights) for each game; that would be very fun. I also would love to add more buttons other than four colors and maybe even make the game online so that you can compete with others. OR you make the sounds, and the other person tries to make the same sounds with the buttons.
 
 
 ## Interview Recording URL Link
